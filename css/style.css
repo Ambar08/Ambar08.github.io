@@ -1,8 +1,8 @@
 body {
 	line-height: 1.4;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Merriweather', serif;
     color: #647266;
-    font-size: 16px;
+    font-size: 15px;
     font-weight: 300;
     letter-spacing: 0.5px;
     overflow-x: hidden;
@@ -23,12 +23,12 @@ table {
 	border-spacing: 0;
 }
 h1, h2, h3, h4, h5, h6{
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Merriweather', serif;
     font-weight: 600;
 }
 .section-padding
 {
-    padding: 60px 0px;
+    padding: 80px 0px;
 }
 #loader {
   position: absolute;
@@ -153,17 +153,17 @@ h1, h2, h3, h4, h5, h6{
 }
 .bnr-title, .bnr-sub-title
 {
-    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Merriweather', serif;
 }
 h1.bnr-title
 {
-    font-size: 18px;
+    font-size: 35px;
     text-transform: uppercase;
-    letter-spacing: 2px;
+    letter-spacing: 3px;
 }
 h2.bnr-sub-title
 {
-    font-size: 45px;
+    font-size: 35px;
     text-transform: uppercase;
     padding: 20px 0px;
     font-weight: 700;
@@ -176,7 +176,7 @@ h2.bnr-sub-title
 {
     text-transform: uppercase;
     margin-top: 50px;
-    color: #fff;
+    color: #112B2C;
     border: 0;
     font-size: 14px;
     font-weight: 300;
@@ -217,7 +217,7 @@ h2.bnr-sub-title
 
 .title, .service-title
 {
-    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Merriweather', serif;
     font-size: 35px;
     text-transform: uppercase;
 }
@@ -256,11 +256,11 @@ h2.bnr-sub-title
     color: #002F2F;
     text-transform: uppercase;
     margin: 25px 0px;
-    line-height: 1.8;
+    line-height: 1.7;
 }
 #service
 {
-    background-color: #444547;
+    background-color: #545557;
 }
 ul.service-list li i
 {
@@ -368,7 +368,7 @@ ul.service-list li i
     box-sizing:border-box
 }
 .portfolio-item figure h2 {
-    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Merriweather', serif;
     color:#fff;
     font-size:20px;
     text-align:left;
