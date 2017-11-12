@@ -1,6 +1,6 @@
 body {
-	line-height: 1.4;
-	font-family: 'Merriweather', serif;
+	line-height: 1.5;
+	font-family: verdana,sans-serif;
     color: #647266;
     font-size: 15px;
     font-weight: 300;
@@ -163,7 +163,21 @@ h1.bnr-title
 }
 h2.bnr-sub-title
 {
-    font-size: 35px;
+    font-size: 24px;
+    text-transform: uppercase;
+    padding: 20px 0px;
+    font-weight: 700;
+}
+h2.bnr-sub-title2
+{
+    font-size: 13px;
+    text-transform: uppercase;
+    padding: 20px 0px;
+    font-weight: 700;
+}
+h2.bnr-sub-title3
+{
+    font-size: 18px;
     text-transform: uppercase;
     padding: 20px 0px;
     font-weight: 700;
@@ -218,7 +232,7 @@ h2.bnr-sub-title
 .title, .service-title
 {
     font-family: 'Merriweather', serif;
-    font-size: 35px;
+    font-size: 25px;
     text-transform: uppercase;
 }
 .item-img
@@ -711,7 +725,7 @@ h1.bnr-title {
     font-size: 16px;
 }
 h2.bnr-sub-title {
-    font-size: 33px;
+    font-size: 25px;
 }
 body{
     font-size: 14px;
