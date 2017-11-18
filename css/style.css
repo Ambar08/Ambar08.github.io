@@ -76,7 +76,7 @@ h1, h2, h3, h4, h5, h6{
   to{ bottom:0; opacity:1 }
 }
 .header{
-    background: url('../img/bg-banner02.jpg') no-repeat fixed;
+    background: url('../img/Bg-Banner02.jpg') no-repeat fixed;
     background-size: cover;
     min-height: 650px;
     position: relative;
